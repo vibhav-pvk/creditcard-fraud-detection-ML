@@ -28,5 +28,5 @@ The steps involved in the project are:
 
 7. final model creation and analysis outcome.
 
-Kaggle link to dataset:
+Kaggle link to the dataset:
 https://www.kaggle.com/mlg-ulb/creditcardfraud
