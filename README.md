@@ -16,7 +16,7 @@ The steps involved in the project are:
 
 3. building machine learning models
 
-4. evaluating the models
+4. evaluating the models 
 
 5.tuning the parameters for better accuracy
 
