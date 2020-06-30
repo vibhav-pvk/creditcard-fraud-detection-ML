@@ -1,7 +1,7 @@
 # DLithe Internship Certification Program
  
 Project Topic : Credit Card Fraud Detection Dataset
-Reference : DLithe  
+Reference : DLithe
 Website : www.dlithe.com
 Project done under the guidance of : DLithe
 
